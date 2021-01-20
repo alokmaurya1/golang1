@@ -5,7 +5,7 @@ metadata:
   description: golang1
   annotations: 
     github.com/project-slug: alokmaurya1/golang1
-    backstage.io/github-actions-id: alokmaurya1/golang1
+    #backstage.io/github-actions-id: alokmaurya1/golang1
     jenkins.io/github-folder: 'alokmaurya1/golang1'
 spec:
   type: service
